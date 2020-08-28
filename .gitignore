@@ -4,9 +4,6 @@
 /node_modules
 /.pnp
 
-/uploads
-!/uploads/photos-caroussel/.gitkeep
-
 .pnp.js
 
 # testing
@@ -15,7 +12,7 @@
 # production
 /build
 
-/database
+/src/database/*
 
 # misc
 .DS_Store
